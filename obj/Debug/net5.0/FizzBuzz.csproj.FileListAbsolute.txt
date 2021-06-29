@@ -1,0 +1,16 @@
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.exe
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csprojAssemblyReference.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\c_sharp\FizzBuzz\obj\Debug\net5.0\FizzBuzz.genruntimeconfig.cache
